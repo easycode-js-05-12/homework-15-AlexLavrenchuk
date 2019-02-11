@@ -1,0 +1,28 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "budget calculation",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easycode-js-05-12/homework-15-AlexLavrenchuk.git"
+  },
+  "author": "Lavrenchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easycode-js-05-12/homework-15-AlexLavrenchuk/issues"
+  },
+  "homepage": "https://github.com/easycode-js-05-12/homework-15-AlexLavrenchuk#readme",
+  "dependencies": {
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-loader": "^8.0.5"
+  }
+}
